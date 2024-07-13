@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaneclm
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development, website development, data science, and product design
 - 🌱 I’m currently studying Computer Science
 - 📫 Reach me at shania_cloma@dlsu.edu.ph
 - 😄 Pronouns: she/her
